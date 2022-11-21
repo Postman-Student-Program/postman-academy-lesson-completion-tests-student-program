@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "1ec588fd-02d8-43b3-b890-f32fe6eb205f",
 		"name": "S - Intro to APIs and Postman - Submit",
-		"description": "For [Skilljar Lesson Completion API:](https://postman.postman.co/workspace/Skilljar-Lesson-Completion-API-~36dd1eac-366b-4c7d-9492-b5a6df8d052b/collection/15567703-04406077-1ae0-47b3-acd0-aae610ce6128?ctx=documentation)\n\npublishedCourseId: `2q2jokzsn62y8`\n\nlessonId: `go6mgkytvk8u`\n\nid: `2q2jokzsn62y8:go6mgkytvk8u`\n\nTest JSON hosted in GitHub\n\n[https://github.com/Postman-Student-Program/postman-academy-lesson-completion-tests-student-program/blob/main/postman-api-fundamentals-student-expert/intro-to-apis-and-postman.json](https://github.com/Postman-Student-Program/postman-academy-lesson-completion-tests-student-program/blob/main/postman-api-fundamentals-student-expert/intro-to-apis-and-postman.json)",
+		"description": "For Skilljar Lesson Completion API: \n\npublishedCourseId: `2q2jokzsn62y8`\n\nlessonId: `go6mgkytvk8u`\n\nid: `2q2jokzsn62y8:go6mgkytvk8u`\n\nTest JSON hosted in GitHub\n\n[https://github.com/Postman-Student-Program/postman-academy-lesson-completion-tests-student-program/blob/main/postman-api-fundamentals-student-expert/intro-to-apis-and-postman.json](https://github.com/Postman-Student-Program/postman-academy-lesson-completion-tests-student-program/blob/main/postman-api-fundamentals-student-expert/intro-to-apis-and-postman.json)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "15567703"
 	},
